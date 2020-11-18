@@ -1,1 +1,7 @@
 .vscode
+venv
+test.py
+ml-25m
+power.csv
+transactions.csv
+.git
