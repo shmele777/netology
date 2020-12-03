@@ -10,3 +10,4 @@
 <p><b>lesson_9</b> - Библиотека numpy</p>
 <p><b>lesson_10</b> - Библиотека Pandas</p>
 <p><b>lesson_11</b> - Функции и работа с данными</p>
+<p><b>lesson_12</b> - Продвинутый pandas</p>
