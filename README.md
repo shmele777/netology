@@ -11,3 +11,4 @@
 <p><b>lesson_10</b> - Библиотека Pandas</p>
 <p><b>lesson_11</b> - Функции и работа с данными</p>
 <p><b>lesson_12</b> - Продвинутый pandas</p>
+<p><b>lesson_13</b> - Продвинутый pandas 2</p>
