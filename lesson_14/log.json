@@ -1,0 +1,106 @@
+{
+    "breaches":{
+        "16372":{
+            "breachId":16372,
+            "site":"bookmate.com",
+            "recordsCount":7775238,
+            "description":"In July 2018, Bookmate was allegedly breached. The stolen data contains usernames, passwords, salts, email addresses and additional personal information. This data has been sold on at least one dark web market and is also being privately shared among several criminal networks.\r\n",
+            "publishDate":"2019-03-20T00:00:00Z",
+            "statistics":{
+                "usernames":7775230,
+                "passwords":2547574,
+                "emails":3822191
+            }
+        }
+    },
+    "data":{
+        "bookmate.com":{
+            "shmele777@gmail.com":[
+                {
+                    "breachId":16372,
+                    "usernameBreached":true,
+                    "passwordBreached":true
+                }
+            ]
+        }
+    },
+    "summary":{
+        "shmele777@gmail.com":{
+            "breaches":[16372]
+        }
+    }
+}
+
+{
+    "breaches":{
+        "17609":{
+            "breachId":17609,
+            "site":"vk.com",
+            "recordsCount":42536910,
+            "description":"At some time in 2020, the Russian social networking website vKontakte was allegedly breached. The stolen data contains email addresses and additional personal information. This breach is being privately shared on the internet.",
+            "publishDate":"2020-05-21T00:00:00Z",
+            "statistics":{
+                "usernames":0,
+                "passwords":0,
+                "emails":20549631
+            }
+        },
+        "4505":{
+            "breachId":4505,
+            "site":"nnm-club.me",
+            "recordsCount":6852998,
+            "description":"In September 2013, Russian torrent tracker NNM-Club's user database was allegedly breached. The stolen data contains around 7 million records including email addresses, usernames, and passwords. On January 2014, the data was shared on publicly available cybercrime and forums.",
+            "publishDate":"2017-06-14T00:00:00Z",
+            "statistics":{
+                "usernames":6848208,
+                "passwords":6852955,
+                "emails":3429241
+            }
+        },
+        "12":{
+            "breachId":12,
+            "site":"vk.com",
+            "recordsCount":91262655,
+            "description":"Popular Russian social networking platform VKontakte was breached in late 2012. Over 100 million clear-text passwords were compromised in the breach. Breached credential sets included victims' e-mail addresses, passwords, dates of birth, phone numbers and location details. The credential set was advertised on a dark web marketplace as of June 2016 for a price of one bitcoin. ",
+            "publishDate":"2016-10-29T00:00:00Z",
+            "statistics":{
+                "usernames":0,
+                "passwords":89691243,
+                "emails":91262653
+            }
+        }
+    },"data":{
+        "nnm-club.me":{
+            "vet-ll@mail.ru":[
+                {
+                    "breachId":4505,
+                    "usernameBreached":true,
+                    "passwordBreached":true
+                }
+            ]
+        },
+        "vk.com":{
+            "vet-ll@mail.ru":[
+                {
+                    "breachId":17609,
+                    "usernameBreached":true,
+                    "passwordBreached":true
+                },
+                {
+                    "breachId":12,
+                    "usernameBreached":true,
+                    "passwordBreached":true
+                }
+            ]
+        }
+    },
+    "summary":{
+        "vet-ll@mail.ru":{
+            "breaches":[
+                17609,
+                4505,
+                12
+            ]
+        }
+    }
+}
